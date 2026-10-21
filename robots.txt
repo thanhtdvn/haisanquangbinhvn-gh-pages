@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haisanquangbinh.vn/sitemap.xml
